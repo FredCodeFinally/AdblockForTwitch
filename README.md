@@ -4,4 +4,4 @@ Adblock For Twitch blocks ads on Twitch by switching to an ad-free version of th
 
 You can find the extension on both Chrome and Firefox add-on stores.
 
-https://addons.mozilla.org/en-GB/firefox/addon/adblock-for-twitch/
+https://addons.mozilla.org/firefox/addon/adblock-for-twitch
